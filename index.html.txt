@@ -24,8 +24,9 @@ max-width:1200px;
 
 <body>
 
-<img src="portfolio.png">
+<img src="Portfolio.png">
 
 </body>
+
 
 </html>
